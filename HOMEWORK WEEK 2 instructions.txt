@@ -1,0 +1,38 @@
+Homework Week 2
+
+1. Reading:
+4.1 & 2.3 - Repeat if/else and For Loops
+7.4-7.5 - Advanced arrays
+10.1-10.2 - ArrayList
+5.1 - While Loops
+11.3 - HashMaps
+
+2. Videos:
+For loops: http://beginnersjava.com/java-tutorial-11-for-loops-nested-for-loops/
+http://beginnersjava.com/java-tutorial-12-loops-in-action-and-number-casting/
+
+While loops: http://beginnersjava.com/java-tutorial-10-loop-logic-intro/
+
+Case statements: http://beginnersjava.com/java-tutorial-14-case-logic-structure-breaking/
+
+Arrays: http://beginnersjava.com/java-tutorial-15-1-15-2-introduction-to-and-using-arrays/ 
+
+3. PracticeIT:
+Self-check: 7.1, 7.3, 7.4, 7.6, 7.8, 7.9, 7.13, 7.14
+Exercises: 7.3, 7.8, 7.9
+
+Self-Check 10.2, 10.8, 10.15, 10.16
+Exercises: 10.2 - 10.10
+
+Self-Check 5.1, 5.2, 5.4, 5.8
+
+Self-check: 11.19, 11.20
+Exercises: 11.2, 11.6, 11.8
+
+
+4. Coding
+- Java files in “SRC” folder
+- problems in “Self coding” folder
+
+- Challenge coding (NOT REQUIRED) in “Challenge coding” folder
+
