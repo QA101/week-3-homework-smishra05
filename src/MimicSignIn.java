@@ -9,7 +9,7 @@ import java.util.Scanner;
  * @author dustin
  *
  */
-public class StringManipulation {
+public class MimicSignIn {
 
 	/**
 	 * Main method should first read arguments from terminal.
