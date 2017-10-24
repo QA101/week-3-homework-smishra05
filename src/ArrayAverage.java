@@ -1,7 +1,4 @@
-
-
 import java.util.Scanner;
-
 
 /**
  * Write a class that will get input from the user through the terminal
