@@ -1,5 +1,3 @@
-import java.util.Scanner;
-
 /**
  * Write a class that will get input from the user through the terminal
  * Only int will be passed in through the terminal. Any other input will likely fail.
@@ -24,29 +22,7 @@ public class ArrayAverage {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		int ArraySize;
-		double average = 0;
 
-		//Creating a scanner to read input from console
-		Scanner console = new Scanner(System.in);
-		System.out.println("How many ints to average?");
-		ArraySize = console.nextInt();
-		
-		// TODO -- define an array
-				
-		// TODO -- write a for loop here to ask the user for input.
-
-		//for(something){
-		//
-		//}
-		
-		// TODO -- average across the array
-		//average = ???; 
-		
-		System.out.println(average);
-		
-		//Closing the scanner
-		console.close();
 	}
 
 }
