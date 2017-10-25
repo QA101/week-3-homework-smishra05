@@ -57,7 +57,6 @@ public class MimicSignIn {
 			
 			/**
 			 * What is a valid email address?
-			 * 
 			 */
 			if(true) {
 				System.out.println("You have a valid email address");
