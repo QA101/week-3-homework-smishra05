@@ -1,0 +1,49 @@
+1. Reading:
+
+4.1 & 2.3 - Repeat if/else and For Loops
+5.1 - Repeat While Loops
+
+7.4-7.5 - Advanced arrays
+10.1-10.2 - ArrayList
+11.3 - HashMaps
+8.1 - 8.4 - OOP
+
+
+
+2. Videos:
+
+Repeat While Loops: https://www.youtube.com/watch?v=77N8VGj7q4M&list=PLyRiRUsTyUXhUXoOPEdMZWhGpGeSQFZgH&index=12 
+
+ArrayList: https://www.youtube.com/watch?v=FhqdMFJbsxs&list=PLyRiRUsTyUXhUXoOPEdMZWhGpGeSQFZgH&index=15 
+
+Objects: https://www.youtube.com/watch?v=6O2H3ULoZpw&index=5&list=PLyRiRUsTyUXhUXoOPEdMZWhGpGeSQFZgH
+
+HashMap: https://www.youtube.com/watch?v=ga8SmSKryBA
+
+
+
+3. PracticeIT:
+
+a. if you didn’t finish last time:
+Self-check: 7.1, 7.3, 7.4, 7.6, 7.8, 7.9, 7.13, 7.14
+Exercises: 7.3, 7.8, 7.9
+
+Self-Check 10.2, 10.8, 10.15, 10.16
+Exercises: 10.2 - 10.10
+
+Self-Check 5.1, 5.2, 5.4, 5.8
+
+Self-check: 11.19, 11.20
+Exercises: 11.2, 11.6, 11.8
+
+b. New one:
+Chapter 8: Self-Check 8.1-8.5
+
+
+
+4. Coding
+- Java files in “SRC” folder (Please finish both Week 2 and Week 3)
+- problems in “Self coding” folder
+
+- Challenge coding (NOT REQUIRED) in “Challenge coding” folder
+

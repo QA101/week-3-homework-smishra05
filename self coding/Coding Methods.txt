@@ -1,0 +1,46 @@
+
+
+
+Programming exercises for Methods:
+
+1. Write a method which takes as input as a one number and returns first five even
+numbers.
+2. Write a method which takes as input as a one number and returns first ten odd
+numbers.
+3. Write a method which takes as input as a one number and returns first seven
+square numbers.
+4. Write a method which takes as input as a one number and returns the sum of a
+number.
+5. Write a method which takes as input as a one number and returns the product of
+a number.
+6. Write a method which takes as input as a one number and returns the reverse of
+a number.
+7. Write a method which takes as input as a two number and returns swape of
+numbers.
+8. Write a method which takes as input as a two number and returns the maximum
+of the two.
+9. Write a method which takes as input as a two number and returns the minimum
+of the two.
+10. Write a method which takes as input as a one number and returns the factorial of
+a number.
+11. Write a method which takes as input as a three number and returns the
+maximum of the three.
+12. Write a method which takes as input as a three number and returns the minimum
+of the three.
+
+Note: output is a set of string so define your output type as “String”
+
+public class Method1 {
+	public static void main(String[] args) {
+		System.out.println(PrintNumber(5));
+	}
+	
+	public static String PrintNumber(int n){
+		String Final = “ “;
+		for(int i=1;i&lt;=n;i++){
+			Final = Final + “ “ + i;
+		}
+
+	return Final;
+	}
+}
